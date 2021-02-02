@@ -1,2 +1,2 @@
 # EFCore
- EFCore task
+ EFCore task Michał Droździk
